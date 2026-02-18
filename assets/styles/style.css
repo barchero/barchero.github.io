@@ -1320,7 +1320,7 @@ button:focus {
 .social__link {
   color: #44566C;
   display: inline-block;
-  font-size: 0.875rem;
+  font-size: 1.25rem;
   margin-left: 0.8125rem;
   text-decoration: none;
 }
